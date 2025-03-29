@@ -19,6 +19,7 @@
     height:40px;
     width: 60vw;
     box-sizing: border-box;
+    color: black;
     outline: none;
 }
 
@@ -31,6 +32,7 @@
     height: 40px;
     width: 40px;
     border-radius: 0;
+    border: none;
 }
 
 .icSearchButton:hover{
@@ -41,4 +43,5 @@
     width: 15px;
     height: 15px;
     background-color: transparent;
+    
 }
